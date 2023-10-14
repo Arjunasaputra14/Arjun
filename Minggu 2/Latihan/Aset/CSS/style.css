@@ -3,7 +3,7 @@ h1 {
 }
 
 /* id selection */
-#Judul {
+#Arjuna Clothing Store {
     font-weight: 800;
     font-style: italic;
 }
@@ -47,7 +47,8 @@ h1 {
 .box p {
     color:white;
 }
-body {
+body
+{
     background-image: url(../Image/background.avif);
     background-repeat: no-repeat;
     background-size: 100%;
